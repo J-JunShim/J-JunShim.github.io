@@ -4,8 +4,5 @@
 
 layout: home
 ---
-#
 
-## Hello
-
-Introduce
+Hello world
